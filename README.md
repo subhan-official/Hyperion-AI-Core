@@ -1,46 +1,47 @@
-# Hype# Hyperion AI Core ⚡
-> Advanced AI workflows, prompt architectures, and autonomous no-code automation systems.
+# ⚡ Hyperion AI Core
+
+![AI Systems](https://img.shields.io/badge/Focus-AI%20Workflows%20%26%20Automations-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20Build-success?style=for-the-badge)
+![No Code](https://img.shields.io/badge/Architecture-No--Code%20%2F%20Agentic-orange?style=for-the-badge)
+
+> High-performance AI operating frameworks, prompt architectures, deep research pipelines, and autonomous no-code automations.
 
 ---
 
-## 📌 Overview
-`Hyperion-AI-Core` documents practical AI utilization, prompt engineering frameworks, deep research systems, and no-code/low-code autonomous workflows.
-
-## 🛠 AI Ecosystem & Tools
-* **Foundation Models:** Gemini (Google AI Studio), Claude, DeepSeek, ChatGPT
-* **Research & Agentic Search:** Perplexity Deep Research, Agentic Browsing Workflows
-* **Automation & Workflows:** n8n Workflow Automation, Webhooks, Multi-Tool Integration
-* **Generative Media:** HeyGen, ElevenLabs, Kling, AI Visual Engines
-* **Prompt Frameworks:** Advanced Prompt Engineering, Structured Markdown Architecture
+### 📌 Overview
+**Hyperion-AI-Core** is a centralized technical documentation space for mastering AI power-user workflows, prompt engineering systems, and automated agent orchestration.
 
 ---
 
-## 🗺 Roadmap Execution (14-Week Systems Build)
+### 🛠 Core AI Stack
 
-### 🔹 Phase 1: Foundations & AI Landscape (Weeks 1–3)
-- [x] **Week 1:** Personal Branding & Essential AI Tools Setup
-- [ ] **Week 2:** Advanced AI Models & Agentic Browsing Workflows
-- [ ] **Week 3:** LLM Mastery, Google AI Studio & Deep Research
-
-### 🔹 Phase 2: Prompt Systems & Multimodal Pipelines (Weeks 4–6)
-- [ ] **Week 4:** Advanced Prompt Frameworks & Content Systems
-- [ ] **Week 5:** Marketing Automation & AI Image Systems
-- [ ] **Week 6:** AI Branding & Studio Positioning
-
-### 🔹 Phase 3: Synthetic Media & Voice Systems (Weeks 7–9)
-- [ ] **Week 7:** AI Visuals & Ad Creative Systems
-- [ ] **Week 8:** AI Avatars & UGC Media Systems
-- [ ] **Week 9:** AI Video Generation & ElevenLabs Voice Engines
-
-### 🔹 Phase 4: Autonomous Workflows & Real-World Operations (Weeks 10–14)
-- [ ] **Week 10:** n8n Workflow Control & Customer Support Automations
-- [ ] **Week 11:** Lead Systems & Content Distribution Workflows
-- [ ] **Week 12:** AI Voice Interactions & Intuitive No-Code App Builds
-- [ ] **Week 13:** Workflow Optimization & Offer Structuring
-- [ ] **Week 14:** Production Deployment & Professional System Handling
+| Layer | Tools & Platforms |
+| :--- | :--- |
+| **Foundational LLMs** | Google Gemini (AI Studio), Claude, DeepSeek, ChatGPT |
+| **Deep Research** | Perplexity AI, Agentic Search Frameworks |
+| **Workflow Automation** | n8n Engine, Webhooks, API Connectors |
+| **Synthetic Media** | HeyGen, ElevenLabs, Kling AI |
 
 ---
 
-## 👤 Maintainer
-**Subhan** — AI Systems Operator & Workflow Builderrion-AI-Core
-High-performance agentic pipelines, LLM orchestration architectures, and autonomous workflows.
+### 🗺 Roadmap Execution
+
+- [x] **Week 01:** AI Landscape Mapping & Systems Setup
+- [ ] **Week 02:** Advanced AI Models & Deep Research Frameworks
+- [ ] **Week 03:** Google AI Studio & Structured Prompt Systems
+- [ ] **Week 04:** Advanced Prompt Engineering & Content Engines
+- [ ] **Week 05:** Marketing Automations & Visual Workflows
+- [ ] **Week 06:** AI Studio Positioning & Branding
+- [ ] **Week 07:** AI Visuals & Ad Creative Systems
+- [ ] **Week 08:** Synthetic Avatars & Media Generation
+- [ ] **Week 09:** ElevenLabs Voice Systems & Video Pipelines
+- [ ] **Week 10:** n8n Self-Hosting & Autonomous Support Workflows
+- [ ] **Week 11:** Lead Systems & Multi-Step Distribution
+- [ ] **Week 12:** Voice AI Agents & No-Code Builds
+- [ ] **Week 13:** System Optimization & Offer Engineering
+- [ ] **Week 14:** Production Deployment & Operations
+
+---
+
+### 👤 Operator
+**Subhan** — *AI Systems Operator & Automation Builder*
